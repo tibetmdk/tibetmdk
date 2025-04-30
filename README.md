@@ -18,25 +18,25 @@ In addition to systems programming, I also develop cross-platform mobile applica
 
 ### 📌 Featured Projects
 
-- 🎯 **[Libft (100/100)](https://github.com/tibetmdk/libft)**  
+- 🧱 **[Libft (100/100)](https://github.com/tibetmdk/libft)** *(Standard Library Implementation)*  
   A foundational project where I recreated standard C library functions such as `memcpy`, `strdup`, `calloc`, etc.
 
-- 🎯 **[ft_printf (100/100)](https://github.com/tibetmdk/ft_printf)**  
+- 🖨️ **[ft_printf (100/100)](https://github.com/tibetmdk/ft_printf)** *(Formatted Output / Variadic Functions)*  
   A reimplementation of the `printf` function handling format specifiers like `%s`, `%d`, `%x`.
 
-- 🎯 **[get_next_line (100/100)](https://github.com/tibetmdk/get_next_line)**  
+- 📄 **[get_next_line (100/100)](https://github.com/tibetmdk/get_next_line)** *(File I/O / Buffer Management)*  
   A function that reads a line from a file descriptor efficiently with memory handling.
 
-- 🎯 **[minitalk (100/100)](https://github.com/tibetmdk/minitalk)**  
+- 📡 **[minitalk (100/100)](https://github.com/tibetmdk/minitalk)** *(UNIX Signals / IPC)*  
   A messaging system that allows data transmission between two processes using only UNIX signals.
 
-- 🎯 **[push_swap (100/100)](https://github.com/tibetmdk/push_swap)**  
+- 🧮 **[push_swap (100/100)](https://github.com/tibetmdk/push_swap)** *(Sorting Algorithms / Stack Manipulation)*  
   A sorting algorithm challenge that uses two stacks and optimized operations to sort integers.
 
-- 🎯 **[so_long (103/100)](https://github.com/tibetmdk/so_long)**  
+- 🕹️ **[so_long (103/100)](https://github.com/tibetmdk/so_long)** *(2D Game Development / Graphics with MiniLibX)*  
   A simple 2D game using a graphic library where the player collects items and exits the map. Bonus included for animations and enhancements.
 
----
+  ---
 
 ### 📊 GitHub Stats
 
