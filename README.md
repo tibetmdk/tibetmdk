@@ -36,6 +36,9 @@ In addition to systems programming, I also develop cross-platform mobile applica
 - 🕹️ **[so_long (103/100)](https://github.com/tibetmdk/so_long)** *(2D Game Development / Graphics with MiniLibX)*  
   A simple 2D game using a graphic library where the player collects items and exits the map. Bonus included for animations and enhancements.
 
+- 🍽️ **[philosophers](https://github.com/tibetmdk/Philosophers_42)** *(Multithreading / Deadlock Avoidance)*  
+  A simulation of the classic Dining Philosophers problem using POSIX threads and mutexes. Focused on thread synchronization, race condition prevention, and resource sharing logic.
+
   ---
 
 ### 📊 GitHub Stats
